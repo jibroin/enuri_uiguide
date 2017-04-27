@@ -1,0 +1,2 @@
+# enuri_uiguide
+SUMMERCE PLATFORM(ENURI) UI GUIDE
